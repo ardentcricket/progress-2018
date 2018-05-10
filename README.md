@@ -4,7 +4,7 @@
 
 ## Progress
 
-Courses Completed: 0  
+Courses Completed: 1  
 Total Points earned:
 
 | Date Finished | Activity                        | Points | Links                                                                      |
